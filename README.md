@@ -2,7 +2,7 @@
 
 how to download:
 
-press green code button
+press green code button on top right of files
 
 press download as zip
 
